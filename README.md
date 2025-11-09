@@ -4,7 +4,6 @@ Welcome to my **personal portfolio website** — a responsive and elegant web pa
 This website highlights my journey as a **Data Scientist and Analyst**, featuring SQL, Python, Power BI, and Machine Learning projects.
 
 ---
-
 ## 🚀 Live Demo
 🔗 **Visit the Portfolio:** [Motilal Das Portfolio Website](https://mksingh431.github.io/Portfolio-Website-Template/)
 
